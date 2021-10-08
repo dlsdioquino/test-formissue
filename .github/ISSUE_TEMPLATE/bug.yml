@@ -64,10 +64,8 @@ body:
   - type: markdown
     attributes:
       value: |
-        For Desktop
-
         ---
-
+        For Desktop
         Please complete the following information
   - type: dropdown
     id: os
@@ -90,10 +88,8 @@ body:
   - type: markdown
     attributes:
       value: |
-        For Mobile
-
         ---
-
+        For Mobile
         Please complete the following information
   - type: dropdown
     id: phone
